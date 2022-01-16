@@ -12,6 +12,7 @@ class Human {
 };
 int main()
 {
+    //how can we access class fields
     Human firstHuman;
     Human secondHuman;
     
